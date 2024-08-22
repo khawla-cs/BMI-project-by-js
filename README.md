@@ -1,1 +1,1 @@
-# BMI-project-by-js
+# My first project with JavaScript!
